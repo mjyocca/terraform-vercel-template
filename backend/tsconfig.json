@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"forceConsistentCasingInFileNames": true,
+		"skipDefaultLibCheck": true,
+		"skipLibCheck": true,
+		"esModuleInterop": true,
+		"baseUrl": ".",
+		"outDir": "dist",
+		"rootDir": "api"
+	},
+	"include": ["**/*.ts"],
+	"exclude": ["node_modules"]
+}
